@@ -4,7 +4,7 @@ import img from '../../assets/images/login/login.svg';
 
 const Login = () => {
 
-    const handleLogin = event =>{
+    const handleLogin = event => {
         event.preventDefault();
     }
 

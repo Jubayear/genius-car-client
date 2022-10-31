@@ -1,7 +1,7 @@
 import React from 'react';
 
-const ServiceCard = ({service}) => {
-    const {img, price, title} = service;
+const ServiceCard = ({ service }) => {
+    const { img, price, title } = service;
     return (
         <div className="card card-compact w-96 bg-base-100 shadow-xl">
             <figure><img src={img} alt="Shoes" /></figure>

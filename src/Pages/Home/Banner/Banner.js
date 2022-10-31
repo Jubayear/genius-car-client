@@ -55,7 +55,7 @@ const Banner = () => {
                     slide={slide}
                 ></BannerItem>)
             }
-            
+
         </div>
     );
 };
